@@ -1,8 +1,10 @@
-# End-to-end Mentions in Laravel 5 & 6
+# End-to-end Mentions in Laravel 5 & 6 & 7 & 8
 
 [![Build Status](https://travis-ci.org/jameslkingsley/laravel-mentions.svg?branch=master)](https://travis-ci.org/jameslkingsley/laravel-mentions)
 
 ## Abandoned
+As no one is actively maintaining it but for now I added temporary support of Laravel 7 & 8
+
 Unfortunately, I don't have the time to adequately maintain this package. I recommend [Xetaravel-Mentions](https://github.com/XetaIO/Xetaravel-Mentions) which appears to be better maintained with similar functionality.
 
 In hindsight, this package has tried to do too much to implement this functionality. If you're looking to implement mentions, I think you'd be better off implementing the front-end manually, and abstracting the back-end to that package above or writing your own API.
